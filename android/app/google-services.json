@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489927406339",
+    "firebase_url": "https://sinsiterpractice-default-rtdb.firebaseio.com",
+    "project_id": "sinsiterpractice",
+    "storage_bucket": "sinsiterpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489927406339:android:d97c234b8c9d19b45def36",
+        "android_client_info": {
+          "package_name": "com.example.push_noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489927406339-7mmppru591bq0sfths5uo1gq2vcju9ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntf3fsYIHVmbMkC3GUtrg0tI68dLAhJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489927406339-7mmppru591bq0sfths5uo1gq2vcju9ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
