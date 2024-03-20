@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 body: jsonEncode(data),
                 headers: {
                   "Content-Type": "application/json; charset=UTF-8",
-                  "Authorization": "key=AAAAchHy8wM:APA91bG1B6SEKnu9hSnQvJqXOaBSSdYfBUTJQEa3rTVgqfK5uy4G4-tXqM6N-NzQr80tvNT57nv4bJiEU0XWJT4OB49T8IRDdr37qL8Q_iKduvXQqjySFRS2lrRCAa4DjmwgHNnYPlrb"
+                  "Authorization": "Your key"
                 }
             );
           });
